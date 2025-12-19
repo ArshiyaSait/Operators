@@ -13,3 +13,9 @@ elif c=='*':
     print(a*b)
 else:
     print("Eoor:Wrong operation entered")
+
+OUTPUT:
+Enter 1st number:21
+Enter 2nd number:20
+Enter the operation +,-,/,*,:=
+The result isEoor:Wrong operation entered
